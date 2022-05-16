@@ -1,0 +1,9 @@
+
+public class FishRunner
+{
+	//Runs The program
+	public static void main(String [] args)
+	{
+		new FishingTrip();
+	}
+}
