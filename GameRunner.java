@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 
-public class GameRunner
+public class Tester
 {
   public static void main(String[] args)
   {
